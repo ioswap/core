@@ -1,7 +1,7 @@
 {
   "name": "@io-swap/core",
   "description": "🎛 Core contracts for the ioswap protocol",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://ioswap.io",
   "repository": {
     "type": "git",
